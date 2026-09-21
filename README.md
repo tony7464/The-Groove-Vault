@@ -19,8 +19,8 @@ This is the Flatiron summative lab: a React single-page app with hooks, client-s
 You need Node.js 18+ and npm.
 
 ```bash
-git clone https://github.com/tony7464/Summative-Lab-Building-a-React-Based-Personal-Project-Showcase-App.git
-cd Summative-Lab-Building-a-React-Based-Personal-Project-Showcase-App
+git clone https://github.com/tony7464/The-Groove-Vault.git
+cd The-Groove-Vault
 npm install
 ```
 
